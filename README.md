@@ -1,2 +1,2 @@
-# ingus-web-development-workshop
+# ignus-web-development-workshop
 Simple Backend development using nodejs.
