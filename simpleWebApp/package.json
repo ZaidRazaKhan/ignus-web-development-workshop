@@ -1,0 +1,14 @@
+{
+  "name": "simplewebapp",
+  "version": "1.0.0",
+  "description": "This is just a demonstration, Here I am going to show how node works",
+  "main": "app.js",
+  "scripts": {
+    "test": "node runTests"
+  },
+  "author": "Zaid Raza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
